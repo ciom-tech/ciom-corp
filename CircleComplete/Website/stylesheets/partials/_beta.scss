@@ -148,13 +148,13 @@ article{
 	}
 
 	&:before{
-		content: open-quote;
+		content: "\201C";
 		top: 20px;
 		left: 35px;
 	}
 
 	&:after{
-		content: close-quote;
+		content: "\201D";
 		bottom: -10px;
 		right: 35px;
 	}
